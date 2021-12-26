@@ -1,0 +1,27 @@
+Trabalhando com Branches -- Otávio Reis
+
+* BRANCHES
+
+Repositório Github
+ git init >> versionamento - BRANCH MAIN
+
+git add + "nome do arquivo"
+
+git status (verifica se está na stage)
+
+git commit -m "nome ou ação para commit"
+
+git remote -v (visualiza os repositórios remotos)
+
+$git remote add origin "https://github.com - nome do repositório"
+$git remote -v
+$git pull origin master "main"
+$git branch
+$git push origin master
+
+TAG>>HEAD - sempre aponta para o último commit na branch
+
+# Ferramenta de estudo:
+
+visualizing git (git-school.github.io)
+
